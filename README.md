@@ -242,3 +242,5 @@ Computer Networks final project on V2I communication stability, vehicle speed, h
 ## Simulation Video
 
 [▶ Watch Simulation Video](https://github.com/hyojin0226/Computer_network_Project/releases/download/v1.0/Computer_network_Project.mp4)
+
+[- Google Drive Folder](https://drive.google.com/drive/u/0/folders/1aOqalGvR-FxmRj1uMZJrQtCUxqmQyUUO)
