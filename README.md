@@ -237,3 +237,8 @@ However, since actual LTE and 5G handover protocols were not fully implemented, 
 ## About
 
 Computer Networks final project on V2I communication stability, vehicle speed, handover-like events, and packet loss.
+
+---
+## Simulation Video
+
+[▶ Watch Simulation Video](sha256:3c162dcd752b73f4b82bfe5bd9e441766b751b45f9de9494061a12304b2096f6)
